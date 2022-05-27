@@ -1,0 +1,33 @@
+
+
+.pagrindinis-wrapperis {
+    display: flex;
+    flex-direction: column;    
+    height:510px;    
+    border: solid 2px rgb(218, 206, 206);
+    border-radius: 10px;
+    gap: 2px;
+    padding: 20px;
+}
+.eiluciu-wrapperis {
+    display: flex;
+    flex-direction: row;  
+    justify-content: start;
+    gap: 2px;  
+     
+}
+.langeliai {   
+    display: flex;
+    align-items: center;
+    justify-content: center;         
+    font-size: x-large;  
+    height: 100px;
+    width: 100px;
+    background-color: rgb(119, 126, 124);
+}
+.spalva1 {
+    background-color: aquamarine;
+}
+.spalva2 {
+    background-color: white;
+}

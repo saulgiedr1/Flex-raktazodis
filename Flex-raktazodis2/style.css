@@ -1,0 +1,32 @@
+
+
+* {
+    max-width: 900px;
+}
+
+.pagrindinis-wrapperis {
+    display: flex;
+    flex-wrap: wrap;   
+    height:510px;      
+    min-width: 850px;
+    border: solid 2px rgb(218, 206, 206);
+    border-radius: 10px;
+    gap: 2px;
+    padding: 20px;
+}
+
+.langeliai {   
+    display: flex;
+    align-items: center;
+    justify-content: center;         
+    font-size: x-large;  
+    height: 100px;
+    width: 100px;
+    background-color: rgb(119, 126, 124);
+}
+.spalva1 {
+    background-color: aquamarine;
+}
+.spalva2 {
+    background-color: white;
+}
